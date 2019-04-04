@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSS</string>
+    <string name="error_message">Ошибка выполнения</string>
+    <string name="link">Перейти</string>
+</resources>
